@@ -1,3 +1,8 @@
+/*
+ * Code Modified By: Mohamad Hafiz Bin Ahmad
+ * Email: hafiz_apik99@yahoo.com
+ * Youtube: https://www.youtube.com/channel/UC15t8HwKsRL2lTeP8uZlUjQ
+*/
 #include <SoftwareSerial.h>
 #include <CytronMotorDriver.h> // https://github.com/CytronTechnologies/CytronMotorDriver 
 
